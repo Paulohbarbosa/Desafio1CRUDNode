@@ -1,0 +1,26 @@
+{
+  "name": "desafio1crudnode",
+  "version": "1.0.0",
+  "description": "Desafio 1 da disciplina Computação para dispositos móveis, entrega 08 de outubro 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulohbarbosa/Desafio1CRUDNode.git"
+  },
+  "keywords": [
+    "CRUD"
+  ],
+  "author": "Paulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulohbarbosa/Desafio1CRUDNode/issues"
+  },
+  "homepage": "https://github.com/Paulohbarbosa/Desafio1CRUDNode#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
